@@ -1,0 +1,37 @@
+.bouton6 {
+	border-radius:12px 0 12px 0;
+	background: #478bf9;
+	border:none;
+	color:#fff;
+	font:bold 12px Verdana;
+    padding:10px 0 6px 0;
+    height: 3%;
+    width: 40%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #ffffff;
+  width: 2000%;
+  height: 2%;
+}
+body
+{
+  background-image: url(Images/446988.jpg) ;
+}
+.logo {
+  background: url(Images/123) ;
+}
+
+
