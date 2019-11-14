@@ -1,0 +1,106 @@
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+} 
+li {
+    float: left; 
+}
+li a {
+    display: block;
+    padding: 8px;
+    background-color: rgba(236, 0, 140, .7), rgba(252, 103, 103, .7);
+    width: 2000%;
+    height: 2%;
+}
+* {
+        margin: 0px;
+        padding: 0px;
+        font-family: 'Poppins', sans-serif;
+}
+body {
+        background: linear-gradient(to left, rgba(236, 0, 140, .7), rgba(252, 103, 103, .7));
+        
+}
+.main {
+
+        height: 400px;
+        width: 70%;
+        margin: 5% auto;
+        background-color: white;
+        border-radius: 15px;
+        border: 1px solid white;
+        box-shadow: 0 0 5px white; 
+}
+.right .content {
+        width: 80%;
+        margin: auto;
+        padding-top: 100px;
+        color: white;
+        
+
+       
+}
+.right .content i{
+        width: 50px;
+        text-align: center;
+        font-size: 35px;
+        margin-right: 10px;
+}
+.right .content p {
+        padding: 15px;
+        font-size: 18px;
+}
+.main .left {
+        width: 50%;
+        height: 400px;
+        float: left;
+}
+form input {
+        width: 90%;
+        margin: auto;
+        padding: 3%;
+        margin-bottom: 10px;
+        display: block;
+        border: none;
+        outline: none;
+        border-bottom: 2px solid rgba(0, 0, 0, .3);
+}
+form textarea {
+        width: 90%;
+        margin: 2%;
+        padding: 3%;
+        border: none;
+        resize: none;
+        outline: none;
+        border-bottom: 2px solid rgba(0, 0, 0, .3);
+}
+form input[type=submit] {
+        width: 30%;
+        border: none;
+        outline: none;
+        background: linear-gradient(to left, rgb(236, 0, 140), rgb(252, 103, 103));
+        border-radius: 15px;
+        font-weight: bolder;
+        color: white;
+        font-size: 19px;
+        padding: 7px 0;
+}
+.left .title {
+        margin: auto;
+        width: 100%;
+}
+.title {
+        text-align: center;
+        padding: 10px;
+}
+p {
+        color: darkorange;
+}
+.soundcloud iframe {
+        padding-top: 3%;
+}
+
+
+    

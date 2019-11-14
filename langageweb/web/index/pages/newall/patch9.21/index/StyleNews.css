@@ -1,0 +1,53 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 20;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    padding: 8px;
+    padding-bottom: 15;
+    background-color: #a3997e;
+    width: 2000%;
+    height: 2%;
+}
+body {
+    background-image:url(image/3.jpg);
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    color: #fffffffc;
+}
+    
+    
+  
+h2 {
+      text-align: center;
+      color: white;
+}
+.videos {
+      text-align: left;
+      display: inline-block;
+      width: 100%;
+      padding-bottom: 75px;   
+}
+.videos iframe {
+    float: left;
+}
+.videos h3{
+    padding-right: 20%;    
+}
+h3{
+  text-align: center;
+}
+.videos h1 {
+  color: antiquewhite;
+}
+
+
